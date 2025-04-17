@@ -27,7 +27,7 @@ With our `Main.storyboard` gone, it's time to also remove its references within 
 
 Select the project and go to the **_Build Settings_**. Under the Info.list Values section, select and delete the property named _UIKit Main Storyboard File Base Name_, just like shown in the following image:
 
-![](/assets/img/objc-setup-2.png)
+![](assets/img/objc-setup-2.png)
 
 Next, we're going to remove the reference to `Main.storyboard` from our Scene Configuration. Go to the **_Info_** tab just to the left of the previous **_Build Settings_** tab.
 
