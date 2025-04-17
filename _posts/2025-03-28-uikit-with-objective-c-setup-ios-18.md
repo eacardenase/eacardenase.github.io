@@ -4,12 +4,13 @@ title: 'Programmatic UIKit with ObjC in iOS 18'
 date: 2025-03-28 18:21:33 -0500
 categories: [UIKit, ObjC]
 tag: [ios]
-# media_subpath: https://eacardenase.github.io
 ---
 
 Hi there! Most probably you will be thinking, why would I need to setup a new iOS project using UIKit when there is SwiftUI, and most of all, configured with Objective-C!
 
 Well, the thing is that UIKit is far from dead, and there's a high chance you will encounter ObjC in the wild. Or you just wanna learn something new. Here, we are gonna setup a pretty basic UIKit project built from scratch with ObjC that will just show a `UIViewController`'s view background set to blue, using programmatic-ui instead of the default storyboard setup.
+
+## Project set up
 
 Go ahead and create a new project on XCode. Select _iOS_, App template, pick _Storyboard_ as interface and good old _Objective-C_ as language.
 
@@ -19,6 +20,8 @@ Go ahead and create a new project on XCode. Select _iOS_, App template, pick _St
 ![](/assets/img/objc-setup-1.png)
 
 Build and run the project to check that everything works.
+
+## Storyboards cleanup
 
 Now that everything is setup, we need to get rid of that dreaded `Main.storyboard` and setup our application to use programmatic UIKit.
 
@@ -35,6 +38,8 @@ Next, we're going to remove the reference to `Main.storyboard` from our Scene Co
 Under the _Application Scene Manifest > Scene Configuration > Window Application Session Role > Item 0 (Default Configuration)_, select and delete the _Storyboard Name_ property, as shown in the following image:
 
 ![](/assets/img/objc-setup-3.png)
+
+## Programmatic-UI set up
 
 Now that the `Main.storyboard` references are gone, it's time to setup our programmatic UIKit setup.
 
