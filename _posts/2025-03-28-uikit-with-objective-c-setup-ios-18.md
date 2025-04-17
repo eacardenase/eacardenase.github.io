@@ -46,20 +46,17 @@ Now that the `Main.storyboard` references are gone, it's time to setup our progr
 Let's start by setting the `backgroundColor` of our default _ViewController_'s view to `UIColor.cyanColor` within the `viewDidLoad` method. This will give us a visual guide and help us make sure that our changes work.
 
 ```objc
-//  ViewController.m
-
 - (void)viewDidLoad {
     [super viewDidLoad];
 
     self.view.backgroundColor = UIColor.cyanColor;
 }
 ```
+{: file="ViewController.m" }
 
 Next, we're going to update our `SceneDelage` `scene:willConnectToSession:options` method in order to set our an instance of our `ViewController` as the window's `rootViewController`.
 
 ```objc
-// SceneDelegate.m
-
 // Don't forget to import the header at the top of the file
 #import "ViewController.h"
 
@@ -70,6 +67,7 @@ Next, we're going to update our `SceneDelage` `scene:willConnectToSession:option
     [self.window makeKeyAndVisible];
 }
 ```
+{: file="SceneDelegate.m" }
 
 We just finished. Go ahead and run the project, you should see our beautiful displayed `ViewController`'s cyan background in the simulator.
 
