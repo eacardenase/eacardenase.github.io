@@ -4,7 +4,7 @@ title: 'Programmatic UIKit with ObjC in iOS 18'
 date: 2025-03-28 18:21:33 -0500
 categories: [UIKit, ObjC]
 tag: [ios]
-media_subpath: https://eacardenase.github.io
+# media_subpath: https://eacardenase.github.io
 ---
 
 Hi there! Most probably you will be thinking, why would I need to setup a new iOS project using UIKit when there is SwiftUI, and most of all, configured with Objective-C!
@@ -66,7 +66,5 @@ Next, we're going to update our `SceneDelage` `scene:willConnectToSession:option
 ```
 
 We just finished. Go ahead and run the project, you should see our beautiful displayed `ViewController`'s cyan background in the simulator.
-
-<!-- ![](/blog/assets/objc-setup-4.png){: width="350"  } -->
 
 ![](/assets/img/objc-setup-4.png){: width="350" style="display: block; margin: auto" }
