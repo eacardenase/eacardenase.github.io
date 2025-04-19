@@ -15,7 +15,7 @@ Well, the thing is that UIKit is far from dead, and there's a high chance you wi
 Go ahead and create a new project on XCode. Select _iOS_, App template, pick _Storyboard_ as interface and good old _Objective-C_ as language.
 
 > The project set up would look something like this
-{: .prompt-tip }
+{: .prompt-info }
 
 ![](/assets/img/objc-setup-1.png)
 
@@ -72,3 +72,5 @@ Next, we're going to update our `SceneDelage` `scene:willConnectToSession:option
 We just finished. Go ahead and run the project, you should see our beautiful displayed `ViewController`'s cyan background in the simulator.
 
 ![](/assets/img/objc-setup-4.png){: width="350" }
+
+If you want to take a deeper look, here's a [GitHub repository](https://github.com/eacardenase/objc-programmatic-uikit){: target="_blank" } with everything we have covered so far.
