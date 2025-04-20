@@ -1,6 +1,6 @@
 ---
-layout: post
-title: 'Programmatic UIKit with ObjC in iOS 18'
+title: Programmatic UIKit with Objective-C in iOS 18
+description: iOS UIKit project set up with Objective-C and Programmatic UI.
 date: 2025-03-28 18:21:33 -0500
 categories: [UIKit, ObjC]
 tag: [ios]
@@ -17,7 +17,7 @@ Go ahead and create a new project on XCode. Select _iOS_, App template, pick _St
 > The project set up would look something like this
 {: .prompt-info }
 
-![](/assets/img/objc-setup-1.png)
+![XCode Project](/assets/img/objc-setup-1.png)
 
 Build and run the project to check that everything works.
 
@@ -31,13 +31,13 @@ With our `Main.storyboard` gone, it's time to also remove its references within 
 
 Select the project and go to the **_Build Settings_**. Under the Info.list Values section, select and delete the property named _UIKit Main Storyboard File Base Name_, just like shown in the following image:
 
-![](assets/img/objc-setup-2.png)
+![XCode Project](assets/img/objc-setup-2.png)
 
 Next, we're going to remove the reference to `Main.storyboard` from our Scene Configuration. Go to the **_Info_** tab just to the left of the previous **_Build Settings_** tab.
 
 Under the _Application Scene Manifest > Scene Configuration > Window Application Session Role > Item 0 (Default Configuration)_, select and delete the _Storyboard Name_ property, as shown in the following image:
 
-![](/assets/img/objc-setup-3.png)
+![XCode Project](/assets/img/objc-setup-3.png)
 
 ## Programmatic-UI set up
 
@@ -71,6 +71,7 @@ Next, we're going to update our `SceneDelage` `scene:willConnectToSession:option
 
 We just finished. Go ahead and run the project, you should see our beautiful displayed `ViewController`'s cyan background in the simulator.
 
-![](/assets/img/objc-setup-4.png){: width="350" }
+![Simulator](/assets/img/objc-setup-4.png){: width="350" }
+_UIViewController's background color set to UIColor.cyanColor_
 
-If you want to take a deeper look, here's a [GitHub repository](https://github.com/eacardenase/objc-programmatic-uikit){: target="_blank" } with everything we have covered so far.
+If you want to take a deeper look, here's the [GitHub repository](https://github.com/eacardenase/objc-programmatic-uikit){: target="_blank" } with everything we have covered so far.
