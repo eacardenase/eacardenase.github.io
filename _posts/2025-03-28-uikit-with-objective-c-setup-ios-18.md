@@ -1,8 +1,8 @@
 ---
-title: Programmatic UIKit with Objective-C in iOS 18
-description: iOS UIKit project set up with Objective-C and Programmatic UI.
+title: Building a UIKit user interface programmatically with Objective-C
+description: UIKit project set up with Objective-C and Programmatic UI in iOS 18.
 date: 2025-03-28 18:21:33 -0500
-categories: [UIKit, ObjC]
+categories: [UIKit, Objective-C]
 tag: [ios]
 ---
 
