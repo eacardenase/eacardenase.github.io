@@ -1,5 +1,5 @@
 ---
-title: Building a UIKit user interface programmatically with Objective-C
+title: Setting up UIKit programmatically with Objective-C
 description: UIKit project set up with Objective-C and Programmatic UI in iOS 18.
 date: 2025-03-28 18:21:33 -0500
 categories: [UIKit, Objective-C]
