@@ -1,6 +1,6 @@
 ---
-title: Setting up UIKit programmatically with Objective-C
-description: UIKit project set up with Objective-C and Programmatic UI in iOS 18.
+title: ToDo app with UIKit, programmatic UI and Objective-C
+description: ToDO app built with UIKit and Objective-C in iOS 18.
 date: 2025-03-28 18:21:33 -0500
 categories: [UIKit, Objective-C]
 tag: [ios, uikit]
