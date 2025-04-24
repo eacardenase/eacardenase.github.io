@@ -3,7 +3,7 @@ title: Setting up UIKit programmatically with Objective-C
 description: UIKit project set up with Objective-C and Programmatic UI in iOS 18.
 date: 2025-03-28 18:21:33 -0500
 categories: [UIKit, Objective-C]
-tag: [ios]
+tag: [ios, uikit]
 ---
 
 Hi there! Most probably you will be thinking, why would I need to setup a new iOS project using UIKit when there is SwiftUI, and most of all, configured with Objective-C!
