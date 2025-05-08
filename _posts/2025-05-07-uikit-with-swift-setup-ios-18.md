@@ -1,14 +1,14 @@
 ---
-title: Setting up UIKit programmatically with Objective-C
-description: UIKit project set up with Objective-C and Programmatic UI in iOS 18.
-date: 2025-03-28 18:21:33 -0500
-categories: [UIKit, Objective-C]
-tag: [ios, uikit, objective-c]
+title: Setting up UIKit programmatically with Swift
+description: UIKit project set up with Swift and Programmatic UI in iOS 18.
+date: 2025-05-07 19:39:55 -0500
+categories: [UIKit, Swift]
+tag: [ios, uikit, swift]
 ---
 
-Hi there! Most probably you will be thinking, why would I need to setup a new iOS project using UIKit when there is SwiftUI, and most of all, configured with Objective-C!
+Hi there! Most probably you will be thinking, why would I need to setup a new iOS project using UIKit when there is SwiftUI already?
 
-Well, the thing is that UIKit is far from dead, and there's a high chance you will encounter ObjC in the wild. Or you just wanna learn something new. Here, we are gonna setup a pretty basic UIKit project built from scratch with ObjC that will just show a `UIViewController`'s view background set to blue, using programmatic-ui instead of the default storyboard setup.
+Well, the thing is that UIKit is far from dead, and there's a high chance you will encounter it in the wild. Or you just wanna learn something new. Here, we are gonna setup a pretty basic UIKit project built from scratch with Swift that will just show a `UIViewController`'s view background set to blue, using programmatic-ui instead of the default storyboard setup.
 
 ## Project set up
 
