@@ -1,7 +1,7 @@
 ---
 title: Setting up UIKit programmatically with Swift
 description: UIKit project set up with Swift and Programmatic UI in iOS 18.
-date: 2025-05-07 19:39:55 -0500
+date: 2025-04-01 19:39:55 -0500
 categories: [UIKit, Swift]
 tag: [ios, uikit, swift]
 ---
