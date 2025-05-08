@@ -29,7 +29,7 @@ Delete and move to the trash `Main.storyboard`.
 
 With our `Main.storyboard` gone, it's time to also remove its references within the project.
 
-Select the project and go to the **_Build Settings_**. Under the Info.list Values section, select and delete the property named _UIKit Main Storyboard File Base Name_, just like shown in the following image:
+Select the project and go to the **_Build Settings_**. Under the Info.plist Values section, select and delete the property named _UIKit Main Storyboard File Base Name_, just like shown in the following image:
 
 ![XCode Project](assets/img/objc-setup-2.png)
 
