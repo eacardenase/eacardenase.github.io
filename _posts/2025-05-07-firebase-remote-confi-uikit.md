@@ -2,7 +2,7 @@
 title: Firebase Remote Config with UIKit
 description: Firebase Remote Config setup with UIKit and Swift.
 date: 2025-05-07 19:21:35 -0500
-categories: [Firebase, UIKit]
+categories: [UIKit, Firebase]
 tag: [ios, uikit, firebase, swift]
 ---
 
