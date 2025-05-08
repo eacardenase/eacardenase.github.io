@@ -10,6 +10,8 @@ Hi there! Most probably you will be thinking, why would I need to setup a new iO
 
 Well, the thing is that UIKit is far from dead, and there's a high chance you will encounter ObjC in the wild. Or you just wanna learn something new. Here, we are gonna setup a pretty basic UIKit project built from scratch with ObjC that will just show a `UIViewController`'s view background set to blue, using programmatic-ui instead of the default storyboard setup.
 
+> You can see a similar setup using Swift on [this post]({% post_url 2025-04-01-uikit-with-swift-setup-ios-18 %}){: target="_blank" }.
+
 ## Project set up
 
 Go ahead and create a new project on XCode. Select _iOS_, App template, pick _Storyboard_ as interface and good old _Objective-C_ as language.

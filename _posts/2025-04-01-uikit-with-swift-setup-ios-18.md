@@ -8,11 +8,13 @@ tag: [ios, uikit, swift]
 
 Hi there! Most probably you will be thinking, why would I need to setup a new iOS project using UIKit when there is SwiftUI already?
 
-Well, the thing is that UIKit is far from dead, and there's a high chance you will encounter it in the wild. Or you just wanna learn something new. Here, we are gonna setup a pretty basic UIKit project built from scratch with Swift that will just show a `UIViewController`'s view background set to blue, using programmatic-ui instead of the default storyboard setup.
+Well, the thing is that UIKit is far from dead, and there's a high chance you will encounter it in the wild. Here, we are gonna setup a pretty basic UIKit project built from scratch with Swift that will just show a `UIViewController`'s view background set to blue, using programmatic-ui instead of the default storyboard setup.
+
+> You can see a similar setup using Objective-C on [this post]({% post_url 2025-03-28-uikit-with-objective-c-setup-ios-18 %}){: target="_blank" }.
 
 ## Project set up
 
-Go ahead and create a new project on XCode. Select _iOS_, App template, pick _Storyboard_ as interface and good old _Objective-C_ as language.
+Go ahead and create a new project on XCode. Select _iOS_, App template, pick _Storyboard_ as interface and _Swift_ as programming language.
 
 > The project set up would look something like this
 {: .prompt-info }
