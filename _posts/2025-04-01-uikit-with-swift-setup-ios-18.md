@@ -74,4 +74,4 @@ We just finished. Go ahead and run the project, you should see our beautiful dis
 ![Simulator](/assets/img/swift-setup-4.png){: width="350" }
 _UIViewController's background color set to UIColor.systemPurple_
 
-If you want to take a deeper look, here's the [GitHub repository](https://github.com/eacardenase/objc-programmatic-uikit){: target="_blank" } with everything we have covered so far.
+If you want to take a deeper look, here's the [GitHub repository](https://github.com/eacardenase/swift_programmatic_uikit){: target="_blank" } with everything we have covered so far.
