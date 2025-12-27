@@ -1,5 +1,5 @@
 ---
-title: Building iOS apps with UIKit in 2025
+title: UIKit in 2025
 description: Building iOS applications with UIKit in 2025
 date: 2025-12-25 17:12:00 -0500
 categories: [UIKit, Swift]
