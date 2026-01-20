@@ -1,6 +1,6 @@
 ---
-title: Learning iOS in 202X
-description: Learning iOS development in the age of AI
+title: iOS development learning path
+description: Learn iOS development from scratch
 date: 2026-01-19 10:08:00 -0500
 categories: [Learning, iOS]
 tag: [ios, uikit, swift, objective-c]
@@ -30,13 +30,14 @@ pin: true
 - [ ] Book - Design Patters by Tutorials (iOS 13)
 - [ ] Course - Unit Testing Swift Mobile App
 - [ ] Book - iOS Unit Testing by Example (iOS 13)
+- [ ] Book - iOS Test-Driven Development by Tutorials (iOS 15)
+- [ ] Book - Advanced iOS App Architecture (iOS 15)
 - [ ] Book - RxSwift Reactive Programming with Swift (iOS 13)
 - [ ] Book - Core Data by Tutorials (iOS 14)
 - [ ] Book - Practical Core Data (iOS 15)
 - [ ] Book - iOS App Distribution & Best Practices (iOS 14.4)
 - [ ] Book - Expert Swift (Swift 5.4)
 - [ ] Book - Advanced Swift (Swift 5.6)
-- [ ] Book - iOS Test-Driven Development by Tutorials (iOS 15)
 - [ ] Book - Data Structures & Algorithms in Swift (Swift 5.5)
 - [ ] Book - Cocoa Programming for OS X (macOS 10.10)
 - [ ] Book - Catalyst by Tutorials (iOS 15)
@@ -53,7 +54,6 @@ pin: true
 - [ ] Book - Practical Combine (iOS 13)
 - [ ] Book - Combine Asynchronous Programming with Swift (iOS 15)
 - [ ] Book - Real-World iOS by Tutorials (iOS 15)
-- [ ] Book - Advanced iOS App Architecture (iOS 15)
 - [ ] Book - iOS Animations by Tutorials (iOS 15)
 - [ ] Book - SwiftUI Animations by Tutorials (iOS 16)
 - [ ] Course - Let’s Build UBER With SwiftUI
