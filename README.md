@@ -3,13 +3,15 @@
 ## Running locally
 
 > Install Dependencies
+
 ```shell
 bundle
 ```
 
 > Run
+
 ```shell
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload --drafts
 # Or
 tools/run.sh
 ```

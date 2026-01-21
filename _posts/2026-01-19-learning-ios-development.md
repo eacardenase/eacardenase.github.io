@@ -9,6 +9,8 @@ pin: true
 
 ## UIKit
 
+- [x] Course - Swift Programming Tutorial - Sean's Allen YouTube Course
+- [x] Course - iOS & Swift - The Complete iOS App Development Bootcamp (Angela Yu)
 - [x] Book - Objective-C Programming
 - [x] Book - iOS Programming (Objective-C)
 - [x] Book - Swift Programming (Swift 5.3)
@@ -31,7 +33,7 @@ pin: true
 - [ ] Course - Unit Testing Swift Mobile App
 - [ ] Book - iOS Unit Testing by Example (iOS 13)
 - [ ] Book - iOS Test-Driven Development by Tutorials (iOS 15)
-- [ ] Course - iOS Dev Interview Prep - UIKit Sean's Allen YouTube Course (iOS 14)
+- [ ] Course - iOS Dev Interview Prep with UIKit - Sean's Allen YouTube Course (iOS 14)
 - [ ] Book - Advanced iOS App Architecture (iOS 15)
 - [ ] Book - RxSwift Reactive Programming with Swift (iOS 13)
 - [ ] Book - Core Data by Tutorials (iOS 14)
