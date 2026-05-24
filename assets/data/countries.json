@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Mexico",
+    "code": "MEX",
+    "group": "A",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/mexico/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "code": "RSA",
+    "group": "A",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/south-africa/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  },
+  {
+    "name": "Korea Republic",
+    "code": "KOR",
+    "group": "A",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/south-korea/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  },
+  {
+    "name": "Czechia",
+    "code": "CZA",
+    "group": "A",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "code": "CAN",
+    "group": "B",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/canada/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  },
+  {
+    "name": "Bosnia-Herzegovina",
+    "code": "BIH",
+    "group": "B",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  },
+  {
+    "name": "Qatar",
+    "code": "QAT",
+    "group": "B",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/qatar/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "code": "SUI",
+    "group": "B",
+    "flagUrl": "https://cdn.countryflags.com/thumbs/switzerland/flag-square-500.png",
+    "stickers": [
+      {
+        "number": 1,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 2,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 3,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 4,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 5,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 6,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 7,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 8,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 9,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 10,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 11,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 12,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 13,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 14,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 15,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 16,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 17,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 18,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 19,
+        "owned": false,
+        "duplicates": 0
+      },
+      {
+        "number": 20,
+        "owned": false,
+        "duplicates": 0
+      }
+    ]
+  }
+]
