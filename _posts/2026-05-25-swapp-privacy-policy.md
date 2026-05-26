@@ -56,4 +56,4 @@ This privacy policy may be updated in future versions of the app. Any changes wi
 
 If you have any questions about this Privacy Policy, you may contact:
 
-[your@email.com](mailto:your@email.com)
+[eacardenase@gmail.com](mailto:eacardenase@gmail.com)
