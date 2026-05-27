@@ -4,7 +4,6 @@ description: Learn iOS development from scratch
 date: 2026-01-19 10:08:00 -0500
 categories: [Learning, iOS]
 tag: [ios, uikit, swift, objective-c]
-pin: true
 ---
 
 ## UIKit

@@ -4,6 +4,7 @@ description: Swapp Stickers Privacy Policy
 date: 2026-05-26 10:08:00 -0500
 categories: [Learning, iOS]
 tag: [ios, swift, swiftui]
+pin: true
 ---
 
 # Privacy Policy
