@@ -1,6 +1,6 @@
 ---
-title: Swapp Stickers
-description: Swapp Stickers Privacy Policy
+title: Swapp Stickers Support Page
+description: Swapp Stickers Support Page
 date: 2026-05-26 10:08:00 -0500
 categories: [Learning, iOS]
 tag: [ios, swift, swiftui]
